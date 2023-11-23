@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Thmen"
+description              : "Interested in reconfigurable computing, super-resolution, computational lithography and deep learning"
+repository               : "Thmen/thmen.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -25,7 +25,7 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Southeast University"
   location         : "Shanghai, China"
-  employer         :
+  employer         : "Hisilicon Tech. Co., Ltd."
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=xzNONgcAAAAJ"
   email            : "cypmvp@outlook.com"
@@ -57,6 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  csdn             : "https://blog.csdn.net/THmen?type=blog"
 
 
 # Reading Files

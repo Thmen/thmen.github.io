@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-## 👋 About Me
+# 👋 About Me
 
 👨‍💼 I'm now working at EDA R&D Center of [Hisilicon Tech. Co., Ltd.](https://www.hisilicon.com/en/about-us/company/) <img src='images/hisilicon.jpg' style='width: 5em;'>, which is one of the most competitive fabless semiconductors company all over the world (Biggest IC Design House in China), leading a lithography modeling group. 
 
@@ -32,7 +32,7 @@ redirect_from:
 - *2021.09*: 💼 I join [Hisilicon's EDA Team](https://www.hisilicon.com/en/about-us/company/) <img src='https://www.hisilicon.com/-/media/Hisilicon2020/Images/component/home/logo/logo.svg' style='width: 5em;'> as an AI researcher in Shanghai!
 - *2021.07*: 📣 We release [EGVSR](https://github.com/Thmen/EGVSR) on Github (Welcome to STAR and FORK)!
 
-# 💬 Invited Talks & Presentations
+## 💬 Invited Talks & Presentations
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASAP 2021</div><img src='../images/posters/egvsr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -53,7 +53,7 @@ Chengcheng Wang#, He Li#, **Yanpeng Cao**, Changjun Song, Feng Yu, Yongming Tang
 
 [WinoNet: Reconfigurable LUT-based Winograd Accelerator for Arbitrary Precision Convolutional Neural Network Inference](http://ddxbywb.paperonce.org/oa/DArticle.aspx?type=view&id=202204002)
 
-Chengcheng Wang#, He Li#, **Yanpeng Cao**, Changjun Song, Feng Yu, Yongming Tang
+Chengcheng Wang<sup>\*</sup>, He Li<sup>\*</sup>, **Yanpeng Cao**, Changjun Song, Feng Yu, Yongming Tang
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xzNONgcAAAAJ&authuser=1&citation_for_view=xzNONgcAAAAJ:W7OEmFMy1HYC) <strong><span class='show_paper_citations' data='xzNONgcAAAAJ:W7OEmFMy1HYC'></span></strong>
 - Investigate an area-efficient FPGA accelerator for CNN inference. 
@@ -62,38 +62,41 @@ Chengcheng Wang#, He Li#, **Yanpeng Cao**, Changjun Song, Feng Yu, Yongming Tang
 </div>
 </div>
 
-# 📝 Publications 
-- **Y. Cao**, F. Yu, and Y. Tang, “29.2: Deep Learning Based Video Super Resolution A Survey,” in SID Symposium Digest of Technical Papers, 2021, vol. 52, pp. 187–187.
-- **Y. Cao**, F. Yu, and Y. Tang, “A digital watermarking encryption technique based on FPGA cloud accelerator,” IEEE Access, vol. 8, pp. 11800–11814, 2020.
-- **Y. Cao** and Y. Tang, “Development of Real-Time Style Transfer for Video System,” in 2019 3rd International Conference on Circuits, System and Simulation (ICCSS), 2019, pp. 183–187.
-- **Y. Cao**, C. Song, and Y. Tang, “Efficient LUT-based FPGA accelerator design for universal quantized CNN inference,” in 2021 2nd Asia Service Sciences and Software Engineering Conference, 2021, pp. 108–115.
-- C. Wang, **Y. Cao**, and Y. Tang, “P-5.5: An Adaptive Video Scaling System Implementation Based on FPGA,” in SID Symposium Digest of Technical Papers, 2021, vol. 52, pp. 531–534.
-- F. Yu, **Y. Cao**, and Y. Tang, “Realization of Quantized Neural Network for Super-resolution on PYNQ,” in 2020 IEEE 28th Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM), 2020, pp. 233–233.
-- **Y. Cao**, C. Wang, C. Song, Y. Tang, and H. Li, “Real-time super-resolution system of 4k-video based on deep learning,” in 2021 IEEE 32nd International Conference on Application-specific Systems, Architectures and Processors (ASAP), 2021, pp. 69–76.
-- C. Wang, **Y. Cao**, F. Yu, and Y. Tang, “Dynamic Weight of Adaptive Information Density Network for Image Super-Resolution,” in 2021 2nd Asia Service Sciences and Software Engineering Conference, 2021, pp. 123–129.
-- **Y. Cao**, C. Wang, and Y. Tang, “Explore efficient lut-based architecture for quantized convolutional neural networks on fpga,” in 2020 IEEE 28th Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM), 2020, pp. 232–232.
-- F. Yu, **Y. Cao**, and Y. Tang, “Portable Circuit Design Based on SERF Atomic Magnetometer,” in 2019 3rd International Conference on Circuits, System and Simulation (ICCSS), 2019, pp. 98–102.
-- **Y. Cao**, Y. Tang, and Y. Xie, “A novel augmented reality guidance system for future informatization experimental teaching,” in 2018 IEEE international conference on teaching, assessment, and learning for engineering (TALE), 2018, pp. 900–905.
+## 📝 Publications 
 - W. Chengcheng, L. He, **C. Yanpeng**, S. Changjun, Y. Feng, and T. Yongming, “WinoNet: Reconfigurable look-up table-based Winograd accelerator for arbitrary precision convolutional neural network inference,” Journal of Southeast University (English Edition) [ISSN:1003-7985/CN:32-1325/N], vol. 38, no. 2022 4, pp. 332–339, 2022.
 - **C. YANPENG**, T. YONGMING, and Z. YAOSHENG, Spherical enclosed cockpit panoramic display method based on double-projection transformation. 2022.
+- **Y. Cao**, C. Wang, C. Song, Y. Tang, and H. Li, “Real-time super-resolution system of 4k-video based on deep learning,” in 2021 IEEE 32nd International Conference on Application-specific Systems, Architectures and Processors (ASAP), 2021, pp. 69–76.
+- C. Wang, **Y. Cao**, and Y. Tang, “P-5.5: An Adaptive Video Scaling System Implementation Based on FPGA,” in SID Symposium Digest of Technical Papers, 2021, vol. 52, pp. 531–534.
+- **Y. Cao**, C. Song, and Y. Tang, “Efficient LUT-based FPGA accelerator design for universal quantized CNN inference,” in 2021 2nd Asia Service Sciences and Software Engineering Conference, 2021, pp. 108–115.
+- C. Wang, **Y. Cao**, F. Yu, and Y. Tang, “Dynamic Weight of Adaptive Information Density Network for Image Super-Resolution,” in 2021 2nd Asia Service Sciences and Software Engineering Conference, 2021, pp. 123–129.
+- **Y. Cao**, F. Yu, and Y. Tang, “29.2: Deep Learning Based Video Super Resolution A Survey,” in SID Symposium Digest of Technical Papers, 2021, vol. 52, pp. 187–187.
+- **Y. Cao**, F. Yu, and Y. Tang, “A digital watermarking encryption technique based on FPGA cloud accelerator,” IEEE Access, vol. 8, pp. 11800–11814, 2020.
+- **Y. Cao**, C. Wang, and Y. Tang, “Explore efficient lut-based architecture for quantized convolutional neural networks on fpga,” in 2020 IEEE 28th Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM), 2020, pp. 232–232.
+- F. Yu, **Y. Cao**, and Y. Tang, “Realization of Quantized Neural Network for Super-resolution on PYNQ,” in 2020 IEEE 28th Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM), 2020, pp. 233–233.
+- **Y. Cao** and Y. Tang, “Development of Real-Time Style Transfer for Video System,” in 2019 3rd International Conference on Circuits, System and Simulation (ICCSS), 2019, pp. 183–187.
+- F. Yu, **Y. Cao**, and Y. Tang, “Portable Circuit Design Based on SERF Atomic Magnetometer,” in 2019 3rd International Conference on Circuits, System and Simulation (ICCSS), 2019, pp. 98–102.
+- **Y. Cao**, Y. Tang, and Y. Xie, “A novel augmented reality guidance system for future informatization experimental teaching,” in 2018 IEEE international conference on teaching, assessment, and learning for engineering (TALE), 2018, pp. 900–905.
 - S. Hu, Q. Zhu, **Y. Cao**, Y. Tang, and Y. Zheng, “Design of machine vision aided measurement system for near-eye display devices,” in 25th International Display Workshops, IDW 2018, 2018, vol. 2, pp. 1020–1022.
 
-# 🎖 Honors and Awards
-- *2022*, **Future Star**, `Annual award for outstanding staffs`, Huawei Technologies Co., Ltd.
-- *2020*, **Gong Jin Fellowship**, `Awarded to academic excellent students (top 1%)`, Education Foundation of SEU
-- *2018*, **Second Prize**, `China Post-Graduate Mathematical Contest in Modeling`, Chinese Graduate Education
-- *2017*, **Xilinx Award**, `National College Students Smarter Innovation Competition`, Xilinx, Inc. (Now AMD)
-- *2016*, **Excellent League Member**, `Awarded to best league members in SEU`, Southeast University
-- *2016*, **First Prize**, `TI Cup Undergraduate Electronic Design Contest`, NUEDC Organizer
-- *2015*, **National Scholarship**, `Highest award for undergraduates`, Chinese Ministry of Education
-- *2015*, **SHK Scholarship**, `Sun Hung Kai & Co. Foundation`, Southeast University
-- *2014*, **TI Scholarship**, `TI China University Program`, Southeast University
+---
 
+## 🎖 Honors & Awards
+- *2022*, **Future Star**, Annual award for outstanding staffs, `Huawei Technologies Co., Ltd.`
+- *2020*, **Gong Jin Fellowship**, Awarded to academic excellent students (top 1%), `Education Foundation of SEU`
+- *2018*, **Second Prize**, China Post-Graduate Mathematical Contest in Modeling, `Chinese Graduate Education`
+- *2017*, **Xilinx Award**, National College Students Smarter Innovation Competition, `Xilinx, Inc. (Now AMD)`
+- *2016*, **Excellent League Member**, Awarded to best league members in SEU, `Southeast University`
+- *2016*, **First Prize**, TI Cup Undergraduate Electronic Design Contest, `NUEDC Organizer`
+- *2015*, **National Scholarship**, Highest award for undergraduates, `Chinese Ministry of Education`
+- *2015*, **SHK Scholarship**, Sun Hung Kai & Co. Foundation, `Southeast University`
+- *2014*, **TI Scholarship**, TI China University Program, `Southeast University`
 
-# 📖 Educations
+---
+
+## 📖 Educations
 - *2018.09 - 2021.06*, M.S., School of Electronic Science & Engineering, Southeast Univeristy, Nanjing.
 - *2014.09 - 2018.06*, B.S., School of Electronic Science & Engineering, Southeast Univeristy, Nanjing.
 
 
-# 💻 Internships
+## 💻 Internships
 - *2019.05 - 2020.02*, [Hikvision](https://www.hikvision.com/europe/about-us/), Shanghai.
