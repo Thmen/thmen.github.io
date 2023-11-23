@@ -32,7 +32,7 @@ redirect_from:
 - *2021.09*: 💼 I join [Hisilicon's EDA Team](https://www.hisilicon.com/en/about-us/company/) <img src='https://www.hisilicon.com/-/media/Hisilicon2020/Images/component/home/logo/logo.svg' style='width: 5em;'> as an AI researcher in Shanghai!
 - *2021.07*: 📣 We release [EGVSR](https://github.com/Thmen/EGVSR) on Github (Welcome to STAR and FORK)!
 
-## 💬 Invited Talks & Presentations
+## 💬 Invited Talks and Presentations
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASAP 2021</div><img src='../images/posters/egvsr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -53,7 +53,7 @@ Chengcheng Wang#, He Li#, **Yanpeng Cao**, Changjun Song, Feng Yu, Yongming Tang
 
 [WinoNet: Reconfigurable LUT-based Winograd Accelerator for Arbitrary Precision Convolutional Neural Network Inference](http://ddxbywb.paperonce.org/oa/DArticle.aspx?type=view&id=202204002)
 
-Chengcheng Wang<sup>\*</sup>, He Li<sup>\*</sup>, **Yanpeng Cao**, Changjun Song, Feng Yu, Yongming Tang
+**Yanpeng Cao**, Chengcheng Wang, Changjun Song, Yongming Tang, He Li
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xzNONgcAAAAJ&authuser=1&citation_for_view=xzNONgcAAAAJ:W7OEmFMy1HYC) <strong><span class='show_paper_citations' data='xzNONgcAAAAJ:W7OEmFMy1HYC'></span></strong>
 - Investigate an area-efficient FPGA accelerator for CNN inference. 
@@ -80,7 +80,7 @@ Chengcheng Wang<sup>\*</sup>, He Li<sup>\*</sup>, **Yanpeng Cao**, Changjun Song
 
 ---
 
-## 🎖 Honors & Awards
+## 🎖 Honors and Awards
 - *2022*, **Future Star**, Annual award for outstanding staffs, `Huawei Technologies Co., Ltd.`
 - *2020*, **Gong Jin Fellowship**, Awarded to academic excellent students (top 1%), `Education Foundation of SEU`
 - *2018*, **Second Prize**, China Post-Graduate Mathematical Contest in Modeling, `Chinese Graduate Education`
